@@ -1,4 +1,3 @@
-<img width="685" height="364" alt="image" src="https://github.com/user-attachments/assets/125fdf0a-27e7-4476-a1bf-48c97d79c870" /># Oprava silového kabelu pomocí teplem smrštitelné spojky
 
 ## Úvod a motivace
 Tento projekt vznikl na základě mých praktických zkušeností, které jsem získal během odborné praxe. Práce na reálných zakázkách a řešení skutečných technických problémů mě velmi baví, protože mi umožňují propojit teoretické znalosti ze školy s manuální zručností v terénu.
@@ -28,7 +27,10 @@ V rámci praxí jsme postupovali podle standardních technologických listů pro
 2. **Mechanické spojení:** Vodiče se zasunuly do šroubové svorkovnice (destičky). Zde bylo kritické pevné dotažení, aby spoj neměl přechodový odpor a nezahříval se.
 3. **Izolace spoje:** Přes celou sestavu se přetáhla smrštitelná trubice.
 4. **Tepelné zpracování:** Pomocí horkovzdušné pistole se bužírka smrštila. Sledoval jsem, jak z okrajů vytéká malé množství lepidla, což je důkazem, že spoj je hermeticky uzavřen proti vlhkosti.
-5 <img width="462" height="267" alt="Snimek 1" src="https://github.com/user-attachments/assets/ea0ecb87-f851-4555-987e-ac797c79c05d" />
+
+ <img width="462" height="267" alt="Snimek 1" src="https://github.com/user-attachments/assets/ea0ecb87-f851-4555-987e-ac797c79c05d" />
+ <img width="685" height="364" alt="image" src="https://github.com/user-attachments/assets/125fdf0a-27e7-4476-a1bf-48c97d79c870" />
+
 
 
 
