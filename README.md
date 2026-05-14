@@ -15,8 +15,6 @@ Při realizaci zemních prací došlo k neúmyslnému přeseknutí silového kab
 - **Typ poškození:** Úplné přerušení kabelu.
 - **Rizika:** Průnik vlhkosti do izolace, nebezpečí úrazu elektrickým proudem, nutnost obnovy celistvosti pláště.
 
-*(Zde můžete vložit fotku poškozeného kabelu před opravou)*
-
 ## 3. Popis realizace a řešení problémů
 V rámci praxí jsme postupovali podle standardních technologických listů pro spojování kabelů do 1 kV.
 
@@ -39,7 +37,7 @@ Práce na této opravě pro mě byla velmi přínosná. Vyzkoušel jsem si, že 
 
 ## 5. Poděkování a citace
 **Poděkování:**
-Rád bych poděkoval kolegům a mistrům na praxi za trpělivost a odborné rady, které mi během práce předávali. Dále děkuji za možnost pracovat s profesionálním nářadím a materiálem.
+Rád bych poděkoval kolegům na praxi za trpělivost a odborné rady, které mi během práce předávali. Dále děkuji za možnost pracovat s profesionálním nářadím a materiálem.
 
 **Citace a zdroje:**
 - Norma ČSN 33 2000 (Elektrické instalace nízkého napětí).
