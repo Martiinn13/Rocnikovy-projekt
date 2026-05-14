@@ -1,51 +1,48 @@
-# Oprava poškozeného silového kabelu pomocí smrštitelné spojky
+# Dokumentace: Oprava silového kabelu pomocí teplem smrštitelné spojky
+
+## Úvod a motivace
+Tento projekt vznikl na základě mých praktických zkušeností, které jsem získal během odborné praxe. Práce na reálných zakázkách a řešení skutečných technických problémů mě velmi baví, protože mi umožňují propojit teoretické znalosti ze školy s manuální zručností v terénu.
+
+Téma opravy přerušeného kabelu jsem si vybral proto, že se jedná o jednu z nejčastějších a zároveň nejzodpovědnějších činností v oboru elektro. Na praxích mě tato činnost zaujala především svou technologickou precizností – nestačí jen vodiče "nějak spojit", ale je nutné zajistit, aby spoj vydržel desítky let v náročných podmínkách, byl vodotěsný a bezpečný. Celý proces odizolování, mechanického kotvení do spojovací desky až po finální smršťování mě velmi bavil a považuji za důležité tyto dovednosti ovládat na profesionální úrovni.
 
 ## 1. Cíl projektu
-Cílem tohoto projektu je zdokumentovat profesionální postup opravy mechanicky poškozeného (překopnutého) kabelu v terénu. Projekt se zaměřuje na technologický postup spojování vodičů, zajištění elektrické izolace a obnovu mechanické odolnosti kabelu pomocí teplem smrštitelné sady s integrovanou mechanickou ochranou.
+Hlavním cílem je detailně popsat technologický postup opravy mechanicky poškozeného (překopnutého) kabelu. Projekt se zaměřuje na správné použití spojovací sady, která zajišťuje jak elektrickou vodivost, tak mechanickou ochranu a izolaci spoje.
 
-## 2. Dokumentace současného stavu (Před opravou)
-Při výkopových pracích došlo k fatálnímu poškození kabelu (např. typu CYKY-J 3x2,5). Kabel byl zcela přerušen, což způsobilo výpadek okruhu.
+## 2. Současný stav (Popis problému)
+Při realizaci zemních prací došlo k neúmyslnému přeseknutí silového kabelu (např. typ CYKY). Takové poškození znamená okamžité vyřazení elektrického okruhu z provozu a vyžaduje odborný zásah.
 
-**Technické parametry poškození:**
-* **Typ kabelu:** Silový kabel pro pevné uložení.
-* **Stav:** Úplné přerušení všech žil.
-* **Lokalita:** Praxe (dílny/venkovní prostor).
+**Technické detaily:**
+- **Typ poškození:** Úplné přerušení kabelu.
+- **Rizika:** Průnik vlhkosti do izolace, nebezpečí úrazu elektrickým proudem, nutnost obnovy celistvosti pláště.
 
-![Foto 1 - Detail poškozeného kabelu](obrazky/poskozeni.jpg)
+*(Zde můžete vložit fotku poškozeného kabelu před opravou)*
 
-## 3. Realizace a popis práce
-Na rozdíl od běžných DIY řešení (pouhá izolační páska) byl v rámci praxí zvolen profesionální postup s využitím spojovací sady.
+## 3. Popis realizace a řešení problémů
+V rámci praxí jsme postupovali podle standardních technologických listů pro spojování kabelů do 1 kV.
 
-### Použitý materiál a nářadí:
-* Spojovací sada (gumová/plastová destička s mechanickým uchycením).
-* Teplem smrštitelná bužírka s lepidlem.
-* Odizolovací kleště a nůž na kabely.
-* Horkovzdušná pistole (nebo plynový hořák).
-* Momentový šroubovák (pro dotažení svorek).
+### Použitý materiál
+- **Spojovací sada:** Speciální mechanická spojka (tzv. "destička" s šroubovými svorkami).
+- **Izolace:** Teplem smrštitelná trubice s vnitřní vrstvou termoplastického lepidla.
+- **Nářadí:** Odizolovací nůž, momentový klíč/šroubovák, horkovzdušná pistole.
 
-### Postup práce a řešené problémy:
-1.  **Příprava konců:** Konce kabelu byly očištěny a zbaveny vnější izolace (pláště) v délce cca 10 cm.
-2.  **Nasazení izolace:** Před samotným spojením bylo nutné navléknout hlavní smrštitelnou trubici na jednu stranu kabelu. *Problém: Často se na tento krok zapomíná, po spojení žil by již nešla nasadit.*
-3.  **Mechanické spojení:** Žíly byly zbaveny izolace a vloženy do spojovacího bloku ("destička"). Šrouby byly pevně dotaženy, aby vznikl dokonalý vodivý styk.
-4.  **Zajištění těsnosti:** Na spoj se přetáhla smrštitelná ochrana. Zahřátím horkovzdušnou pistolí došlo k jejímu smrštění a aktivaci vnitřního lepidla, které brání vniku vlhkosti.
-5.  **Vylepšení oproti návodu:** Při zahřívání jsem postupoval od středu ke krajům, aby pod bužírkou nezůstaly vzduchové bubliny, což zvyšuje životnost spoje v zemi.
+### Pracovní postup
+1. **Příprava kabelu:** Odstranění vnějšího pláště a očištění jednotlivých žil. Důležité bylo nezářezat do izolace žil, aby nedošlo k pozdějším zkratům.
+2. **Mechanické spojení:** Vodiče se zasunuly do šroubové svorkovnice (destičky). Zde bylo kritické pevné dotažení, aby spoj neměl přechodový odpor a nezahříval se.
+3. **Izolace spoje:** Přes celou sestavu se přetáhla smrštitelná trubice.
+4. **Tepelné zpracování:** Pomocí horkovzdušné pistole se bužírka smrštila. Sledoval jsem, jak z okrajů vytéká malé množství lepidla, což je důkazem, že spoj je hermeticky uzavřen proti vlhkosti.
 
-![Foto 2 - Proces spojování žil](obrazky/spojovani.jpg)
-![Foto 3 - Finální zahřívání bužírky](obrazky/zahyvani.jpg)
+**Řešené problémy:**
+Největší výzvou bylo správné odhadnutí délky odizolování žil tak, aby přesně seděly do svorkovnice a nikde nevyčnívala holá měď, ale zároveň aby izolace nepřekážela dotažení šroubů.
 
-## 4. Video ukázka
-Zde bude doplněn odkaz na video dokumentující funkčnost a finální vzhled spoje.
-[Odkaz na video - Bude doplněno]
+## 4. Závěr
+Práce na této opravě pro mě byla velmi přínosná. Vyzkoušel jsem si, že i zdánlivě jednoduchý úkon, jako je spojení dvou konců kabelu, vyžaduje soustředění a dodržení přesného postupu. Výsledkem je spoj, který je svými parametry srovnatelný s nepoškozeným kabelem. Tato zkušenost mě utvrdila v tom, že mě práce v oboru elektro baví a chci se jí i nadále věnovat, protože výsledky práce jsou okamžitě vidět a mají přímý dopad na funkčnost a bezpečnost elektroinstalace.
 
 ## 5. Poděkování a citace
 **Poděkování:**
-Děkuji mistrům odborného výcviku za odborné vedení při práci s vysokonapěťovými komponenty a za poskytnutí materiálu. Také děkuji AI asistentovi Gemini za pomoc se strukturou dokumentace.
+Rád bych poděkoval kolegům a mistrům na praxi za trpělivost a odborné rady, které mi během práce předávali. Dále děkuji za možnost pracovat s profesionálním nářadím a materiálem.
 
-**Zdroje a citace:**
-1.  Norma ČSN 33 2000-5-52: Výběr a stavba elektrických zařízení - Elektrická vedení.
-2.  Katalogový list výrobce spojovacích sad (např. Raychem/Raycap).
-3.  Vlastní měření a fotodokumentace pořízená během praxí.
-
-**Doporučená literatura pro další studium:**
-* *Elektrotechnika pro nektechnology* – základy spojování vodičů.
-* Manuály k instalaci kabelových souborů v podzemních trasách.# Rocnikovy-projekt
+**Citace a zdroje:**
+- Norma ČSN 33 2000 (Elektrické instalace nízkého napětí).
+- Montážní návody výrobců kabelových souborů (např. Raychem).
+- Odborné konzultace s pracovníky v místě výkonu praxe.
+- Vlastní fotodokumentace pořízená během práce.
