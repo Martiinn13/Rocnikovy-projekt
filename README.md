@@ -48,4 +48,4 @@ Rád bych poděkoval kolegům na praxi za trpělivost a odborné rady, které mi
 - Norma ČSN 33 2000 (Elektrické instalace nízkého napětí).
 - Montážní návody výrobců kabelových souborů (např. Raychem).
 - Odborné konzultace s pracovníky v místě výkonu praxe.
-- Vlastní fotodokumentace pořízená během práce.
+- Vlastní fotodokumentace.
