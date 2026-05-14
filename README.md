@@ -1,4 +1,4 @@
-# Dokumentace: Oprava silového kabelu pomocí teplem smrštitelné spojky
+# Oprava silového kabelu pomocí teplem smrštitelné spojky
 
 ## Úvod a motivace
 Tento projekt vznikl na základě mých praktických zkušeností, které jsem získal během odborné praxe. Práce na reálných zakázkách a řešení skutečných technických problémů mě velmi baví, protože mi umožňují propojit teoretické znalosti ze školy s manuální zručností v terénu.
